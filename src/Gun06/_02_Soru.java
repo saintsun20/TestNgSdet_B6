@@ -1,4 +1,4 @@
-package Gun05;
+package Gun06;
 /*
 TODO: Ödev
 Senaryo:
@@ -6,5 +6,5 @@ Senaryo:
 2- Burada her bir markanın üstünde yer alan harf ile başladığını doğrulayınız.
  */
 
-public class _07_Soru {
+public class _02_Soru {
 }
