@@ -16,10 +16,10 @@ public class _05_PlaceOrder_Elementleri {
     public WebElement searchInput;
 
     @FindBy(xpath = "//span[text()='Add to Cart']")
-    public WebElement addToChart;
+    public WebElement addToCart;
 
     @FindBy(linkText = "Shopping Cart")
-    public WebElement shoppingChart;
+    public WebElement shoppingCart;
 
     @FindBy(linkText = "Checkout")
     public WebElement checkOut;
